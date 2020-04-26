@@ -1,4 +1,4 @@
-# BTP- Data_Clustering
+# BTP - Data Clustering
 Project Mentor - Prof. Pabitra Mitra
 (Computer Science and Engineering Department, IIT Kharagpur)
 
